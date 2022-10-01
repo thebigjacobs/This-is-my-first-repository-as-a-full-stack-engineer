@@ -1,4 +1,2 @@
 My first commit
-# thebigjacobs
-# thebigjacobs
-# thebigjacobs
+My first readme
